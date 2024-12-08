@@ -1,3 +1,4 @@
+Install necessary dependencies listed in package.json. Install Formik, Yup, Bootstrap, React.js These dependencies are neccessary to run this app After installing all these dependencies, go to package.json and locate debug and click run now, the app will start running on localhost. There is no authentication for login it alerts login successful for all the credentials and no storage in local server.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
